@@ -1,0 +1,18 @@
+{
+  "cordova-plugin-whitelist": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-whitelist@1"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "info.ios.helloWorldPlugin": {
+    "source": {
+      "type": "local",
+      "path": "/Users/abdulbasit/Documents/demo/app/hello/node_modules/info.ios.helloWorldPlugin"
+    },
+    "is_top_level": true,
+    "variables": {}
+  }
+}

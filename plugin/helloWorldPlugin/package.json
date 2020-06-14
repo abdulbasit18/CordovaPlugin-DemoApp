@@ -1,0 +1,17 @@
+{
+  "name": "info.ios.helloWorldPlugin",
+  "version": "1.0.0",
+  "description": "test plugin",
+  "cordova": {
+    "id": "info.ios.helloWorldPlugin",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-ios"
+  ],
+  "author": "Abdul Basit",
+  "license": "ISC"
+}
